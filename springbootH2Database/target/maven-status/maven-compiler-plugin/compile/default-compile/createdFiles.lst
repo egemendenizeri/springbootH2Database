@@ -1,0 +1,5 @@
+com/egemen/springboot/controller/VendorController.class
+com/egemen/springboot/entity/Device.class
+com/egemen/springboot/SpringbootH2DatabaseApplication.class
+com/egemen/springboot/repository/IVendorRepo.class
+com/egemen/springboot/entity/Vendor.class
